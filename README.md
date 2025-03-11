@@ -1,2 +1,4 @@
 - im icocoer
+- am into singing
 - trying to be better
+- now learning minecraft mods devloping
