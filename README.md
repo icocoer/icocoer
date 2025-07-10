@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.wondershare.com/filmora/article-images/2021/minecraft-banner-maker-placeit.jpg" alt="Minecraft Banner" width="800"/>
+  <img src="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Global-Header_MCCB-Logo_300x51.svg" alt="Minecraft Banner" width="800"/>
 </p>
 
 <h1 align="center">
@@ -22,9 +22,9 @@
 <p align="center">
   <em>正在努力将 <strong>Java</strong> 的逻辑与 <strong>音乐</strong> 的旋律融合在一起...</em>
   <br><br>
-  <a href="#"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"></a>
-  <a href="mailto:你的邮箱地址"><img src="https://img.shields.io/badge/Email-联系我-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="#"><img src="https://img.shields.io/badge/QQ_Music-全民K歌-green?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="全民K歌"></a>
+  <a href="https://space.bilibili.com/115476220"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"></a>
+  <a href="mailto:icocoer@hotmail.com"><img src="https://img.shields.io/badge/Email-联系我-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://music.163.com/#/user/home?id=1414491677"><img src="https://img.shields.io/badge/Music-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-green?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="网易云音乐"></a>
 </p>
 
 <table align="center">
@@ -65,10 +65,13 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Minecraft-67954F?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft">
   <img src="https://img.shields.io/badge/Forge-orange?style=for-the-badge" alt="Forge">
-  
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/C-66CCFF?style=for-the-badge&logo=C&logoColor=white" alt="c">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 </p>
 
 ### 📊 我的 GitHub 统计
