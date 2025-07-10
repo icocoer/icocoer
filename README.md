@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Global-Header_MCCB-Logo_300x51.svg" alt="Minecraft Banner" width="800"/>
+  <img src="assets/pics/banner/minecraft.svg" alt="Minecraft Banner" width="800"/>
 </p>
 
 <h1 align="center">
