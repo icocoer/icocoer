@@ -24,7 +24,7 @@
   <br><br>
   <a href="https://space.bilibili.com/115476220"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"></a>
   <a href="mailto:icocoer@hotmail.com"><img src="https://img.shields.io/badge/Email-联系我-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://music.163.com/#/user/home?id=1414491677"><img src="https://img.shields.io/badge/Music-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-green?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="网易云音乐"></a>
+  <a href="https://music.163.com/#/user/home?id=1414491677"><img src="https://img.shields.io/badge/Music-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-green?style=for-the-badge&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐"></a>
 </p>
 
 <table align="center">
