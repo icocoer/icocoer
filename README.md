@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pics/banner/minecraft.svg" alt="Minecraft Banner" width="800"/>
+  <img src="assets/pics/banner/banner.png" alt="Banner" width="800"/>
 </p>
 
 <h1 align="center">
@@ -78,11 +78,11 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-icocoer.vercel.app/api?username=icocoer&show_icons=true&locale=cn&theme=dracula&card_width=450" alt="icocoer's GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats-icocoer.vercel.app/api?username=icocoer&show_icons=true&locale=cn&theme=dracula&card_width=450&t=1715001" alt="icocoer's GitHub Stats"/>
   </a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-icocoer.vercel.app/api/top-langs/?username=icocoer&layout=compact&locale=cn&theme=dracula&card_width=450" alt="icocoer's Top Languages"/>
+    <img align="center" src="https://github-readme-stats-icocoer.vercel.app/api/top-langs/?username=icocoer&layout=compact&locale=cn&theme=dracula&card_width=450&t=1715001" alt="icocoer's Top Languages"/>
   </a>
 </p>
 
